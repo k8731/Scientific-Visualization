@@ -8,11 +8,11 @@ hw1: iso-surface
 
 <img src="MarchingCubes.gif" width="400">
 <img src="iso_surface/result_image/aneurism.JPG" width="400">
-<img src="https://github.com/user-attachments/assets/efabd148-85ab-4da1-95d1-f70f80c0d1ad" width="400">
-<img src="https://github.com/user-attachments/assets/2296f97f-35af-490c-b6c3-840a2ff4fe94" width="400">
-<img src="https://github.com/user-attachments/assets/cd1fdec9-b710-44a8-b48b-f04403ea59bc" width="400">
-<img src="https://github.com/user-attachments/assets/4fadffef-92b4-4acc-9853-1ac71dbff129" width="400">
-<img src="https://github.com/user-attachments/assets/c1de6d1f-f96c-4ac4-9dea-d7045a2f076b" width="400">
+<img src="iso_surface/result_image/carp_cross_section.JPG" width="400">
+<img src="iso_surface/result_image/carp_cross_section_fill.JPG" width="400">
+<img src="iso_surface/result_image/engine_cross_section.JPG" width="400">
+<img src="iso_surface/result_image/engine_slice.JPG" width="400">
+<img src="iso_surface/result_image/engine_tri.JPG" width="400">
 
 
 
