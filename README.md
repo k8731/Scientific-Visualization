@@ -4,8 +4,9 @@ This repository is for saving my Scientific Visualization homework. Homework rep
 
 hw1: iso-surface
 [report.pdf](https://github.com/user-attachments/files/21209972/report.pdf)
+
 ![image](MarchingCubes.gif)
-MarchingCubes.gif
+
 
 
 hw2: ray-casting
@@ -19,4 +20,6 @@ hw4: SammonMapping
 
 hw5: SOM
 [report.pdf](https://github.com/user-attachments/files/21210002/report.pdf)
+
+![image](SOM.gif)
 
