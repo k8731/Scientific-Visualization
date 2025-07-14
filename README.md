@@ -6,9 +6,10 @@ hw1: iso-surface
 [report.pdf](https://github.com/user-attachments/files/21209972/report.pdf)
 
 
-<img src="MarchingCubes.gif" width="400"> <img src="iso_surface/result_image/engine_cross_section.JPG" width="400">
+<img src="MarchingCubes.gif" width="400"> 
+
 <img src="iso_surface/result_image/carp_cross_section.JPG" width="400"> <img src="iso_surface/result_image/carp_cross_section_fill.JPG" width="400">
-<img src="iso_surface/result_image/engine_slice.JPG" width="400"> <img src="iso_surface/result_image/engine_tri.JPG" width="400">
+<img src="iso_surface/result_image/engine_cross_section.JPG" width="400"><img src="iso_surface/result_image/engine_slice.JPG" width="400"> <img src="iso_surface/result_image/engine_tri.JPG" width="400">
 <img src="iso_surface/result_image/aneurism.JPG" width="400">
 
 
@@ -16,11 +17,8 @@ hw1: iso-surface
 hw2: ray-casting
 [report.pdf](https://github.com/user-attachments/files/21209974/report.pdf)
 
-<img src="https://github.com/user-attachments/assets/afb4a7cb-d03a-44e2-98a0-364ce10d8265" width="400">
-<img src="https://github.com/user-attachments/assets/faf5a7b3-cae7-45de-9475-527763f2e801" width="400">
-<img src="https://github.com/user-attachments/assets/ced66566-0bea-4bc0-8994-8fe937153ec9" width="400">
-<img src="https://github.com/user-attachments/assets/33787fda-4831-4085-a50d-24c795d18cbe" width="400">
-<img src="https://github.com/user-attachments/assets/c5ca8317-667c-4800-a5df-348c17a77763" width="400">
+<img src="ray_casting/result_image/engine1.JPG" width="400"><img src="ray_casting/result_image/engine2.JPG" width="400">
+<img src="ray_casting/result_image/fish.JPG" width="400"><img src="ray_casting/result_image/fish2.JPG" width="400"><img src="ray_casting/result_image/fish3.JPG" width="400">
 
 
 
