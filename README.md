@@ -18,8 +18,31 @@ hw1: iso-surface
 hw2: ray-casting
 [report.pdf](https://github.com/user-attachments/files/21209974/report.pdf)
 
+<img src="https://github.com/user-attachments/assets/afb4a7cb-d03a-44e2-98a0-364ce10d8265" width="400">
+<img src="https://github.com/user-attachments/assets/faf5a7b3-cae7-45de-9475-527763f2e801" width="400">
+<img src="https://github.com/user-attachments/assets/ced66566-0bea-4bc0-8994-8fe937153ec9" width="400">
+<img src="https://github.com/user-attachments/assets/33787fda-4831-4085-a50d-24c795d18cbe" width="400">
+<img src="https://github.com/user-attachments/assets/c5ca8317-667c-4800-a5df-348c17a77763" width="400">
+
+
+
 hw3: Line Integral Convolution
 [report.pdf](https://github.com/user-attachments/files/21209991/report.pdf)
+
+![vec19_off](https://github.com/user-attachments/assets/67920e53-115f-4bc7-96aa-8773caaa7a2e)
+![vec19_color](https://github.com/user-attachments/assets/dfa6b7df-a03b-4361-b2bf-6713b027c038)
+![vec13_spot_box_off](https://github.com/user-attachments/assets/614f5079-cbe9-475e-9ed3-f9053e150e9c)
+![vec13_low_tent_off](https://github.com/user-attachments/assets/f3d23c52-d2f1-439b-b65a-96e1ced97c55)
+![vec13_low_box_off](https://github.com/user-attachments/assets/675a521a-ff66-4954-b9cc-09b9b3f03c33)
+![vec13_gray_box](https://github.com/user-attachments/assets/f0a6d78f-ad0e-43dd-94c8-0b852e0093a9)
+![vec13_black_box_off](https://github.com/user-attachments/assets/545cde4d-3e6b-4466-9b33-f9181344fc5e)
+![vec9](https://github.com/user-attachments/assets/de7faf70-06cf-412f-9f54-df2ea383e2d9)
+![vec7_color](https://github.com/user-attachments/assets/13fe652c-0c24-46fe-acaa-365735e9c374)
+
+
+
+
+
 
 hw4: SammonMapping
 [report.pdf](https://github.com/user-attachments/files/21209998/report.pdf)
