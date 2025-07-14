@@ -8,17 +8,17 @@ hw1: iso-surface
 
 <img src="MarchingCubes.gif" width="400"> 
 
-<img src="iso_surface/result_image/carp_cross_section.JPG" width="400"> <img src="iso_surface/result_image/carp_cross_section_fill.JPG" width="400">
-<img src="iso_surface/result_image/engine_cross_section.JPG" width="400"><img src="iso_surface/result_image/engine_slice.JPG" width="400"> <img src="iso_surface/result_image/engine_tri.JPG" width="400">
-<img src="iso_surface/result_image/aneurism.JPG" width="400">
+<img src="iso_surface/result_image/carp_cross_section.JPG" width="300"> <img src="iso_surface/result_image/carp_cross_section_fill.JPG" width="300">
+<img src="iso_surface/result_image/engine_cross_section.JPG" width="300"> <img src="iso_surface/result_image/engine_slice.JPG" width="300"> <img src="iso_surface/result_image/engine_tri.JPG" width="300">
+<img src="iso_surface/result_image/aneurism.JPG" width="300">
 
 
 
 hw2: ray-casting
 [report.pdf](https://github.com/user-attachments/files/21209974/report.pdf)
 
-<img src="ray_casting/result_image/engine1.JPG" width="400"><img src="ray_casting/result_image/engine2.JPG" width="400">
-<img src="ray_casting/result_image/fish.JPG" width="400"><img src="ray_casting/result_image/fish2.JPG" width="400"><img src="ray_casting/result_image/fish3.JPG" width="400">
+<img src="ray_casting/result_image/engine1.JPG" width="300"> <img src="ray_casting/result_image/engine2.JPG" width="300">
+<img src="ray_casting/result_image/fish.JPG" width="300"> <img src="ray_casting/result_image/fish2.JPG" width="300"> <img src="ray_casting/result_image/fish3.JPG" width="300">
 
 
 
