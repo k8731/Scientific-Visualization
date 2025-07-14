@@ -4,11 +4,8 @@ This repository is for saving my Scientific Visualization homework. Homework rep
 
 hw1: iso-surface
 [report.pdf](https://github.com/user-attachments/files/21209972/report.pdf)
-![Uploading Marching Cubes 2024-08-02 13-14-27 (online-video-cutter.com).gif…]()
-
-
-https://github.com/user-attachments/assets/e0cadd45-25c0-47f5-9050-509783da766d
-
+![image](MarchingCubes.gif)
+MarchingCubes.gif
 
 
 hw2: ray-casting
