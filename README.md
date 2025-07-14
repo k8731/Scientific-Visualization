@@ -45,4 +45,5 @@ hw4: SammonMapping
 hw5: SOM
 [report.pdf](https://github.com/user-attachments/files/21210002/report.pdf)
 
+<img src="SOM.gif" width="400">
 
