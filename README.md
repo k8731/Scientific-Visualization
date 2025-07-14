@@ -7,6 +7,10 @@ hw1: iso-surface
 ![Uploading Marching Cubes 2024-08-02 13-14-27 (online-video-cutter.com).gif…]()
 
 
+https://github.com/user-attachments/assets/e0cadd45-25c0-47f5-9050-509783da766d
+
+
+
 hw2: ray-casting
 [report.pdf](https://github.com/user-attachments/files/21209974/report.pdf)
 
