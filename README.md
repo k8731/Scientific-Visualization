@@ -6,13 +6,10 @@ hw1: iso-surface
 [report.pdf](https://github.com/user-attachments/files/21209972/report.pdf)
 
 
-<img src="MarchingCubes.gif" width="400">
+<img src="MarchingCubes.gif" width="400"> <img src="iso_surface/result_image/engine_cross_section.JPG" width="400">
+<img src="iso_surface/result_image/carp_cross_section.JPG" width="400"> <img src="iso_surface/result_image/carp_cross_section_fill.JPG" width="400">
+<img src="iso_surface/result_image/engine_slice.JPG" width="400"> <img src="iso_surface/result_image/engine_tri.JPG" width="400">
 <img src="iso_surface/result_image/aneurism.JPG" width="400">
-<img src="iso_surface/result_image/carp_cross_section.JPG" width="400">
-<img src="iso_surface/result_image/carp_cross_section_fill.JPG" width="400">
-<img src="iso_surface/result_image/engine_cross_section.JPG" width="400">
-<img src="iso_surface/result_image/engine_slice.JPG" width="400">
-<img src="iso_surface/result_image/engine_tri.JPG" width="400">
 
 
 
