@@ -40,10 +40,9 @@ hw3: Line Integral Convolution
 hw4: SammonMapping
 [report.pdf](https://github.com/user-attachments/files/21209998/report.pdf)
 
-<img src="https://github.com/user-attachments/assets/b529815a-82c4-4110-bdf8-04e9216436cd" width="400">
+<img src="Sammon_Mapping/result.JPG" width="400">
 
 hw5: SOM
 [report.pdf](https://github.com/user-attachments/files/21210002/report.pdf)
 
-![image](SOM.gif)
 
