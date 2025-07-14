@@ -7,7 +7,7 @@ hw1: iso-surface
 
 
 <img src="MarchingCubes.gif" width="400">
-<img src="https://github.com/user-attachments/assets/821e55e8-68a4-481c-ab6c-d1af0ae65206" width="400">
+<img src="iso_surface/result_image/aneurism.JPG" width="400">
 <img src="https://github.com/user-attachments/assets/efabd148-85ab-4da1-95d1-f70f80c0d1ad" width="400">
 <img src="https://github.com/user-attachments/assets/2296f97f-35af-490c-b6c3-840a2ff4fe94" width="400">
 <img src="https://github.com/user-attachments/assets/cd1fdec9-b710-44a8-b48b-f04403ea59bc" width="400">
