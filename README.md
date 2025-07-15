@@ -61,15 +61,15 @@ Implemented the **Marching Cubes** algorithm to extract iso-surfaces from volume
 
 ##### Carp Cross Section
 
-<img src="iso_surface/result_image/carp_cross_section.JPG" width="500"> <img src="iso_surface/result_image/carp_cross_section_fill.JPG" width="500">
+<img src="iso_surface/result_image/carp_cross_section.JPG" width="400"> <img src="iso_surface/result_image/carp_cross_section_fill.JPG" width="400">
 
 ##### Engine Cross Section (Left) / Slice (Right)
 
-<img src="iso_surface/result_image/engine_cross_section.JPG" width="500"> <img src="iso_surface/result_image/engine_slice.JPG" width="500">
+<img src="iso_surface/result_image/engine_cross_section.JPG" width="400"> <img src="iso_surface/result_image/engine_slice.JPG" width="400">
 
 ##### Aneurism
 
-<img src="iso_surface/result_image/aneurism.JPG" width="500">
+<img src="iso_surface/result_image/aneurism.JPG" width="400">
 
 
 
@@ -105,11 +105,11 @@ Implemented direct volume rendering using **ray casting** accelerated by GPU.
 
 ##### Add Color Segments on Engine
 
-<img src="ray_casting/result_image/engine1.JPG" width="500"> <img src="ray_casting/result_image/engine2.JPG" width="500">
+<img src="ray_casting/result_image/engine1.JPG" width="400"> <img src="ray_casting/result_image/engine2.JPG" width="400">
 
 ##### Different Gap on Fish
 
-<img src="ray_casting/result_image/fish.JPG" width="500"> <img src="ray_casting/result_image/fish2.JPG" width="500"> <img src="ray_casting/result_image/fish3.JPG" width="500">
+<img src="ray_casting/result_image/fish.JPG" width="400"> <img src="ray_casting/result_image/fish2.JPG" width="400"> <img src="ray_casting/result_image/fish3.JPG" width="400">
 
 
 
@@ -144,19 +144,19 @@ Visualized 2D vector fields by convolving noise textures along streamlines using
 
 ##### vec13 — High-Frequency Noise: Black & White (Left) / Gray (Right), Different Noise Types
 
-<img src="Line_Integral_Convolution/result_image/vec13_black_box_off.JPG" width="500"> <img src="Line_Integral_Convolution/result_image/vec13_gray_box.JPG" width="500">
+<img src="Line_Integral_Convolution/result_image/vec13_black_box_off.JPG" width="400"> <img src="Line_Integral_Convolution/result_image/vec13_gray_box.JPG" width="400">
 
 ##### vec13 — Low-Frequency Noise: Box Filter (Left) / Tent Filter (Right), Different Convolution Filters
 
-<img src="Line_Integral_Convolution/result_image/vec13_low_box_off.JPG" width="500"> <img src="Line_Integral_Convolution/result_image/vec13_low_tent_off.JPG" width="500">
+<img src="Line_Integral_Convolution/result_image/vec13_low_box_off.JPG" width="400"> <img src="Line_Integral_Convolution/result_image/vec13_low_tent_off.JPG" width="400">
 
 ##### vec13 — Spot Noise
 
-<img src="Line_Integral_Convolution/result_image/vec13_spot_box_off.JPG" width="500">
+<img src="Line_Integral_Convolution/result_image/vec13_spot_box_off.JPG" width="400">
 
 ##### Other Data Results
 
-<img src="Line_Integral_Convolution/result_image/vec19_color.JPG" width="500"> <img src="Line_Integral_Convolution/result_image/vec7_color.JPG" width="500"> <img src="Line_Integral_Convolution/result_image/vec9.JPG" width="500">
+<img src="Line_Integral_Convolution/result_image/vec19_color.JPG" width="400"> <img src="Line_Integral_Convolution/result_image/vec7_color.JPG" width="400"> <img src="Line_Integral_Convolution/result_image/vec9.JPG" width="400">
 
 
 
@@ -166,7 +166,7 @@ Dimensionality reduction and visualization using Sammon mapping.
 [View Report](https://github.com/user-attachments/files/21209998/report.pdf)
 
 #### Results
-<img src="Sammon_Mapping/result.JPG" width="400">
+<img src="Sammon_Mapping/result.JPG" width="500">
 
 
 
@@ -213,7 +213,7 @@ The SOM training process uses the following parameters and rules:
 
 #### Results
 
-<img src="SOM.gif" width="400">
+<img src="SOM.gif" width="300">
 
 
 
