@@ -219,6 +219,28 @@ The SOM training process uses the following parameters and rules:
 
 ## How to Run
 
-### Requirements
-- OpenGL
-- GLUT or FreeGLUT
+### Development Environment
+
+- Visual Studio 2022 or later  
+- OpenGL 3.3 or higher support
+
+### Folder Structure
+
+- `header/`  
+  Contains project-specific header files such as `shader.h`, `glad.h`, and `imgui.h`.
+
+- `include/`  
+  Contains third-party libraries headers including `GLFW`, `KHR`, `glad`, and `glm`.
+
+- `lib-vc2022/`  
+  Contains precompiled `.lib` files required for linking (compatible with Visual Studio 2022).  
+
+### Instructions
+
+1. Open Visual Studio and select **Open Folder**, then choose this project’s root directory.  
+2. In Visual Studio, add `header/` and `include/` folders to the **Additional Include Directories** in the project properties.  
+3. Make sure OpenGL and GLFW libraries are installed on your system. Link the necessary `.lib` files in the **Linker** settings.  
+4. Build and run the project.  
+5. Each homework assignment is located in a separate folder; open and run the desired assignment accordingly.
+
+
